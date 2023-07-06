@@ -84,10 +84,19 @@ body {
   }
 }
 
+/* Tablet view  - 750px */
+@media screen and (max-width: 750px) {
+  .full-container {
+    width: 80%;
+    margin: 5% auto;
+    border-radius: 30px;
+  }
+}
+
 /* Desktop view - 1440px */
 @media screen and (max-width: 1440px) {
   .full-container {
-    width: 70%;
+    width: 30%;
     margin: 5% auto;
     border-radius: 30px;
   }
