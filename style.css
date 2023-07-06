@@ -87,7 +87,7 @@ body {
 /* Desktop view - 1440px */
 @media screen and (max-width: 1440px) {
   .full-container {
-    width: 30%;
+    width: 70%;
     margin: 5% auto;
     border-radius: 30px;
   }
