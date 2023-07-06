@@ -91,6 +91,12 @@ body {
     margin: 5% auto;
     border-radius: 30px;
   }
+
+  .text-container h2 {
+    font-size: 20px;
+    width: 100%;
+  }
+
 }
 
 /* Desktop view - 1440px */
